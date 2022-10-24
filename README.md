@@ -1,4 +1,4 @@
-# AddToCart
+#Ashiq Shop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+![image](https://user-images.githubusercontent.com/98336464/197576968-20aba729-878e-4ac8-8e7c-0df84b242b2f.png)
